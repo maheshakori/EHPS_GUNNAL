@@ -1,14 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
+  
+  <!-- Home page -->
   <url>
     <loc>https://maheshakori.github.io/EHPS_GUNNAL/</loc>
-    <lastmod>2025-09-26</lastmod>
+    <priority>1.0</priority>
   </url>
 
+  <!-- About Us -->
   <url>
-    <loc>https://maheshakori.github.io/EHPS_GUNNAL/google835058a63a5751f8.html</loc>
-    <lastmod>2025-09-26</lastmod>
+    <loc>https://maheshakori.github.io/EHPS_GUNNAL/about</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Academics -->
+  <url>
+    <loc>https://maheshakori.github.io/EHPS_GUNNAL/academics</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Admissions -->
+  <url>
+    <loc>https://maheshakori.github.io/EHPS_GUNNAL/admissions</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Gallery -->
+  <url>
+    <loc>https://maheshakori.github.io/EHPS_GUNNAL/gallery</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Contact -->
+  <url>
+    <loc>https://maheshakori.github.io/EHPS_GUNNAL/contact</loc>
+    <priority>0.7</priority>
   </url>
 
 </urlset>

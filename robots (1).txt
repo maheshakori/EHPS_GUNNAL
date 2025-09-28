@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://mahesha18.github.io/GPT.GUNNAL/sitemap.xml
+
+Sitemap: https://maheshakori.github.io/EHPS_GUNNAL/sitemap.xml
